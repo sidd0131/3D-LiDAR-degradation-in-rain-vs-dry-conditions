@@ -8,3 +8,5 @@ Project Media:
 
 
 Weekly Group Updates (Blogs) can be accessed at:
+https://blogs.ntu.edu.sg/ee3080-2223s2-e026
+
