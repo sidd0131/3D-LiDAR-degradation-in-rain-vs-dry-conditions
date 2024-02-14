@@ -6,6 +6,23 @@ Utilization of commercial LiDAR sensors and cameras to extract data on how rain 
 
 Project Media:
 
+Team members:
+
+Software:
+Siddhangana (Backend/ML)
+Daw Sern (Backend/ML)
+Melvin (Backend/ML)
+Alex (Frontend/ML)
+Yuankun (Frontend/ML)
+
+Hardware calibration, theory and report work:
+Nicole
+JiaWen
+Xavier
+Navin
+Charlene
+
+
 
 Weekly Group Updates (Blogs) can be accessed at:
 https://blogs.ntu.edu.sg/ee3080-2223s2-e026
