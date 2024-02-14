@@ -8,19 +8,19 @@ Project Media:
 
 Team members:
 
-Software:
-Siddhangana (Backend/ML)
-Daw Sern (Backend/ML)
-Melvin (Backend/ML)
-Alex (Frontend/ML)
-Yuankun (Frontend/ML)
+Software:<br />
+Siddhangana (Backend/ML) <br />
+Daw Sern (Backend/ML) <br />
+Melvin (Backend/ML)<br />
+Alex (Frontend/ML)<br />
+Yuankun (Frontend/ML)<br />
 
-Hardware calibration, theory and report work:
-Nicole
-JiaWen
-Xavier
-Navin
-Charlene
+Hardware calibration, theory and report work:<br />
+Nicole<br />
+JiaWen<br />
+Xavier<br />
+Navin<br />
+Charlene<br />
 
 
 
